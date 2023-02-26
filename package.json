@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/UnaRumel/hw-11",
+  "homepage": "https://github.com/UnaRumelhw-11",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /hw-11/"
@@ -19,7 +19,6 @@
   },
   "dependencies": {
     "axios": "^1.3.2",
-    "lodash.debounce": "^4.0.8",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6",
     "simplelightbox": "^2.12.1"
